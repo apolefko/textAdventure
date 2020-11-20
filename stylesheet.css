@@ -1,0 +1,30 @@
+html {
+  background: black;
+  color: white;
+  text-align: center;
+  font-family: Courier New;
+}
+
+#youWhat {
+  width: 100%;
+  padding: 50px 0;
+  /* background-color: #191919; */
+  margin-top: 20px;
+  display: none;
+}
+
+button {
+  border-radius: 3px;
+  width: 10%;
+  background: #191919;
+  color: white;
+  font-size: 10px;
+}
+
+img {
+  padding: 2px;
+}
+
+h2 {
+  padding: 20px;
+}
